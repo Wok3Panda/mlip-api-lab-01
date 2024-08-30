@@ -1,2 +1,5 @@
 Flask
 azure-cognitiveservices-vision-computervision
+flasgger
+flask_restful
+python-dotenv
